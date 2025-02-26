@@ -4,4 +4,5 @@ let stringArr: string[] = ["a", "b", "c", "", String(true)];
 
 let names: Array<string> = ["Joe", "Lisa", "Marcus", "A-Aron"];
 
-console.log(names);
+let anyArr: Array<T> = ["Joe", 2, "mark", {}];
+console.log(anyArr);
