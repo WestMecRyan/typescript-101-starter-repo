@@ -1,0 +1,1 @@
+// initialize as many variables with different types as you can goal is 6
