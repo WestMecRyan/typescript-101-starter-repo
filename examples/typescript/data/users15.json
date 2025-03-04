@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.j@example.com",
+    "joined": "2023-05-12",
+    "lastLogin": "2025-02-28",
+    "interests": ["photography", "hiking", "cooking"],
+    "friends": [3, 7, 12],
+    "purchases": [
+      {"id": "p001", "item": "Camera Lens", "price": 249.99, "date": "2024-06-15"},
+      {"id": "p002", "item": "Hiking Boots", "price": 129.50, "date": "2024-08-22"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "dark",
+      "language": "en"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bsmith@example.com",
+    "joined": "2022-11-30",
+    "lastLogin": "2025-03-01",
+    "interests": ["gaming", "coding", "music"],
+    "friends": [5, 8, 1],
+    "purchases": [
+      {"id": "p003", "item": "Mechanical Keyboard", "price": 189.99, "date": "2024-01-10"},
+      {"id": "p004", "item": "Headphones", "price": 299.99, "date": "2024-07-05"}
+    ],
+    "settings": {
+      "notifications": false,
+      "theme": "light",
+      "language": "en"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie.b@example.com",
+    "joined": "2021-10-10",
+    "lastLogin": "2025-02-20",
+    "interests": ["reading", "traveling", "sports"],
+    "friends": [1, 4, 9],
+    "purchases": [
+      {"id": "p005", "item": "Sports Watch", "price": 150.00, "date": "2024-02-25"},
+      {"id": "p006", "item": "Backpack", "price": 99.99, "date": "2024-09-05"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "dark",
+      "language": "en"
+    }
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "email": "david.w@example.com",
+    "joined": "2022-06-17",
+    "lastLogin": "2025-02-15",
+    "interests": ["movies", "music", "fashion"],
+    "friends": [3, 6, 11],
+    "purchases": [
+      {"id": "p007", "item": "Headphones", "price": 250.00, "date": "2024-05-10"},
+      {"id": "p008", "item": "Movie Ticket", "price": 15.00, "date": "2024-08-19"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "light",
+      "language": "en"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Emma White",
+    "email": "emma.w@example.com",
+    "joined": "2022-09-03",
+    "lastLogin": "2025-03-01",
+    "interests": ["painting", "gardening", "fitness"],
+    "friends": [2, 7, 10],
+    "purchases": [
+      {"id": "p009", "item": "Yoga Mat", "price": 45.99, "date": "2024-04-18"},
+      {"id": "p010", "item": "Paintbrush Set", "price": 30.50, "date": "2024-07-01"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "dark",
+      "language": "en"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Frank Harris",
+    "email": "frank.h@example.com",
+    "joined": "2021-11-21",
+    "lastLogin": "2025-02-18",
+    "interests": ["photography", "technology", "movies"],
+    "friends": [4, 9, 13],
+    "purchases": [
+      {"id": "p011", "item": "Camera", "price": 599.99, "date": "2024-03-25"},
+      {"id": "p012", "item": "Smartphone", "price": 999.00, "date": "2024-06-12"}
+    ],
+    "settings": {
+      "notifications": false,
+      "theme": "light",
+      "language": "en"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "email": "grace.l@example.com",
+    "joined": "2022-07-25",
+    "lastLogin": "2025-02-22",
+    "interests": ["fitness", "reading", "traveling"],
+    "friends": [1, 5, 8],
+    "purchases": [
+      {"id": "p013", "item": "Running Shoes", "price": 89.99, "date": "2024-04-13"},
+      {"id": "p014", "item": "Travel Backpack", "price": 129.99, "date": "2024-09-01"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "dark",
+      "language": "en"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Henry Green",
+    "email": "henry.g@example.com",
+    "joined": "2022-01-15",
+    "lastLogin": "2025-02-28",
+    "interests": ["gaming", "photography", "coding"],
+    "friends": [2, 7, 14],
+    "purchases": [
+      {"id": "p015", "item": "Gaming Mouse", "price": 50.00, "date": "2024-03-01"},
+      {"id": "p016", "item": "Camera Bag", "price": 80.00, "date": "2024-06-05"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "light",
+      "language": "en"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ivy King",
+    "email": "ivy.k@example.com",
+    "joined": "2021-12-19",
+    "lastLogin": "2025-02-23",
+    "interests": ["music", "sports", "movies"],
+    "friends": [3, 4, 13],
+    "purchases": [
+      {"id": "p017", "item": "Bluetooth Speaker", "price": 120.00, "date": "2024-05-11"},
+      {"id": "p018", "item": "Concert Ticket", "price": 75.00, "date": "2024-07-20"}
+    ],
+    "settings": {
+      "notifications": false,
+      "theme": "dark",
+      "language": "en"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Jack Adams",
+    "email": "jack.a@example.com",
+    "joined": "2023-01-05",
+    "lastLogin": "2025-03-02",
+    "interests": ["hiking", "fitness", "gaming"],
+    "friends": [5, 6, 12],
+    "purchases": [
+      {"id": "p019", "item": "Tent", "price": 150.00, "date": "2024-04-20"},
+      {"id": "p020", "item": "Fitness Tracker", "price": 120.00, "date": "2024-09-10"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "light",
+      "language": "en"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Lily Scott",
+    "email": "lily.s@example.com",
+    "joined": "2020-09-12",
+    "lastLogin": "2025-02-19",
+    "interests": ["fashion", "traveling", "music"],
+    "friends": [4, 14, 16],
+    "purchases": [
+      {"id": "p021", "item": "Leather Jacket", "price": 200.00, "date": "2024-02-13"},
+      {"id": "p022", "item": "Suitcase", "price": 150.00, "date": "2024-08-25"}
+    ],
+    "settings": {
+      "notifications": false,
+      "theme": "dark",
+      "language": "en"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mason Carter",
+    "email": "mason.c@example.com",
+    "joined": "2021-04-20",
+    "lastLogin": "2025-03-01",
+    "interests": ["photography", "coding", "traveling"],
+    "friends": [1, 10, 13],
+    "purchases": [
+      {"id": "p023", "item": "Laptop Stand", "price": 40.00, "date": "2024-01-15"},
+      {"id": "p024", "item": "Camera Tripod", "price": 70.00, "date": "2024-06-30"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "light",
+      "language": "en"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Nina Reed",
+    "email": "nina.r@example.com",
+    "joined": "2021-08-03",
+    "lastLogin": "2025-02-25",
+    "interests": ["fitness", "coding", "sports"],
+    "friends": [6, 9, 14],
+    "purchases": [
+      {"id": "p025", "item": "Gym Equipment", "price": 150.00, "date": "2024-03-30"},
+      {"id": "p026", "item": "Running Shoes", "price": 85.00, "date": "2024-07-12"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "dark",
+      "language": "en"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Olivia Stone",
+    "email": "olivia.s@example.com",
+    "joined": "2021-07-10",
+    "lastLogin": "2025-02-27",
+    "interests": ["gaming", "reading", "movies"],
+    "friends": [8, 11, 13],
+    "purchases": [
+      {"id": "p027", "item": "Gaming Console", "price": 399.99, "date": "2024-05-03"},
+      {"id": "p028", "item": "Book Collection", "price": 70.00, "date": "2024-09-15"}
+    ],
+    "settings": {
+      "notifications": false,
+      "theme": "light",
+      "language": "en"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Paul Wright",
+    "email": "paul.w@example.com",
+    "joined": "2022-04-14",
+    "lastLogin": "2025-02-21",
+    "interests": ["coding", "gaming", "photography"],
+    "friends": [2, 5, 9],
+    "purchases": [
+      {"id": "p029", "item": "Camera Lens", "price": 180.00, "date": "2024-05-12"},
+      {"id": "p030", "item": "Smart Watch", "price": 250.00, "date": "2024-09-18"}
+    ],
+    "settings": {
+      "notifications": true,
+      "theme": "dark",
+      "language": "en"
+    }
+  }
+]
